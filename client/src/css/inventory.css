@@ -36,6 +36,7 @@
 .inventory .item.locked {
   border: solid 1px #ccc;
   color: #ccc;
+  visibility: collapse;
 }
 
 .inventory .item.disabled {
