@@ -32,6 +32,11 @@
       "iso": "ko",
       "flag": "KR",
       "name": "한국어"
+    },
+    {
+      "iso": "it",
+      "flag": "IT",
+      "name": "Italiano"
     }
   ]
 }
