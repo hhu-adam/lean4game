@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;0&gt;Most aspects of the games and the infrastructure are still in development.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241214T012210Z" creationid="chabulhwi" creationdate="20241214T012210Z">
+        <seg>&lt;0&gt;게임과 그 기반 시설의 상당 부분은 여전히 개발 중입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;p&gt;As this server runs lean on our university machines, it has a limited capacity.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20241017T092446Z" creationid="chabulhwi" creationdate="20241017T044131Z">
@@ -284,6 +292,14 @@
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20241017T044153Z" creationid="chabulhwi" creationdate="20241017T044132Z">
         <seg>실패한 명령</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feel free to file a &lt;1&gt;GitHub Issue&lt;/1&gt; about any problems you experience!&lt;/0&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241214T012216Z" creationid="chabulhwi" creationdate="20241214T012216Z">
+        <seg>문제를 겪으면 거리낌 없이 &lt;1&gt;깃허브 이슈&lt;/1&gt;를 제출해 주세요!&lt;/0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,6 +625,14 @@ Korean.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Our current estimate is about 70 simultaneous games.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241214T012152Z" creationid="chabulhwi" creationdate="20241214T012152Z">
+        <seg>현재 이 서버로 최대 70게임을 동시에 실행할 수 있는 것으로 추정됩니다.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please get in contact and we'll happily add yours.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20241017T094411Z" creationid="chabulhwi" creationdate="20241017T094411Z">
@@ -765,6 +789,14 @@ Korean.</seg>
         <seg>This server has been developed as part of the project &lt;1&gt;ADAM : Anticipating the Digital Age of Mathematics&lt;/1&gt; at Heinrich-Heine-Universität in Düsseldorf.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20241017T053050Z" creationid="chabulhwi" creationdate="20241017T052901Z">
+        <seg>이 서버는 뒤셀도르프의 하인리히-하이네 대학에서 진행하는 &lt;1&gt;'아담(ADAM): 수학의 디지털 시대 준비하기'&lt;/1&gt; 프로젝트의 일환으로 개발됐습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This server has been developed as part of the project &lt;1&gt;ADAM: Anticipating the Digital Age of Mathematics&lt;/1&gt; at Heinrich Heine University Düsseldorf.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20241214T012227Z" creationid="chabulhwi" creationdate="20241214T012227Z">
         <seg>이 서버는 뒤셀도르프의 하인리히-하이네 대학에서 진행하는 &lt;1&gt;'아담(ADAM): 수학의 디지털 시대 준비하기'&lt;/1&gt; 프로젝트의 일환으로 개발됐습니다.</seg>
       </tuv>
     </tu>
